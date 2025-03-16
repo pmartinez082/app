@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "eus.ehu.teleking.gral.epaituApp",
+  "applicationId": "io.cordova.hellocordova",
   "variantName": "debug",
   "elements": [
     {
